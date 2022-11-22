@@ -1,7 +1,7 @@
 from rest_framework import permissions
 
 
-class IsAuthorOrReadOnly(permissions.BasePermission):
+class IsAuthorOrReadOnly(permissions.IsAuthenticatedOrReadOnly):
     message = 'У вас недостаточно прав для выполнения данного действия.'
 
     def has_object_permission(self, request, view, obj):
