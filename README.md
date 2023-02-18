@@ -210,4 +210,4 @@ POST /api/v1/jwt/create/
 ---
 
 #### Автор
-<sup>Михаил Павлов (Михалис)</sup>
+<sup>Михаил Павлов (pavlovichmihaylovich@yandex.ru)</sup>
