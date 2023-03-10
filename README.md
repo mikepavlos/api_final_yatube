@@ -210,4 +210,8 @@ POST /api/v1/jwt/create/
 ---
 
 #### Автор
-<sup>Михаил Павлов pavlovichmihaylovich@yandex.ru</sup>
+
+Михаил Павлов  
+Email: pavlovichmihaylovich@yandex.ru  
+GitHub: https://github.com/mikepavlos  
+Telegram: @miha1is  
