@@ -212,6 +212,6 @@ POST /api/v1/jwt/create/
 #### Автор
 
 Михаил Павлов  
-Email: pavlovichmihaylovich@yandex.ru  
+Email: mike_pavlovsky@hotmail.com  
 GitHub: https://github.com/mikepavlos  
 Telegram: @miha1is  
